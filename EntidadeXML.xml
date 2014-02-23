@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+
+	<!-- Tabela Entidade -->
+
+	<entidade 
+		id="1" 
+		nome ="Nome da Entidade 1"
+		email = "email@email.com"
+		numero_documento = "123456"
+		tipo_documento = "1"
+		data_inicial  = "hoje"
+		data_final  = "2014-05-12"
+		data_gravacao = "hoje"
+		/>
+		
+	<entidade 
+		id = "2" 
+		nome = "Nome da Entidade 2"
+		email = "email2@email.com"
+		numero_documento = "2345676"
+		tipo_documento = "2"
+		data_inicial = "hoje"
+		data_final = "2014-05-22"
+		data_gravacao = "hoje"
+		/>
+		
+</dataset>
